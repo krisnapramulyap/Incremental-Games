@@ -1,11 +1,7 @@
 ﻿using UnityEngine;
-
 using UnityEngine.UI;
 
- 
-
 public class ResourceController : MonoBehaviour
-
 {
     public Button ResourceButton;
     public Image ResourceImage;
